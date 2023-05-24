@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoWifi</string>
+    <string name="scan">Scan</string>
+    <string name="wifiname">wifiName</string>
+</resources>
